@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="62px" height="95px" viewBox="0 0 62 95" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>noun_Robot_1563587</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="noun_Robot_1563587" transform="translate(3.000000, 3.000000)">
+            <path d="M39.5864286,37 C34.01375,37 30.8866071,39.3450504 28.5,42.181388 C26.1133929,39.3450504 22.98625,37 17.4135714,37 C7.28964286,37 1,43.7427659 1,54.5968289 C1,68.4204936 16.1426786,79.8672835 26.1644643,87.4434474 L27.3233929,88.3206036 C27.6730357,88.5851428 28.0875,88.7164179 28.5019643,88.7164179 C28.9164286,88.7164179 29.3308929,88.5851428 29.6805357,88.3206036 L30.8433929,87.4414583 C40.8592857,79.8652945 56,68.4185046 56,54.5968289 C56,43.7427659 49.7103571,37 39.5864286,37 Z" id="Shape" stroke="#D9F7F7" stroke-width="5" fill-rule="nonzero"></path>
+            <path d="M-3.55271368e-15,12 C-7.10542736e-15,5.372583 5.372583,0 12,0 L44,0 C50.627417,0 56,5.372583 56,12 C56,18.627417 50.627417,24 44,24 L12,24 C5.372583,24 -7.10542736e-15,18.627417 -3.55271368e-15,12 Z" id="Path" stroke="#D9F7F7" stroke-width="5" fill-rule="nonzero"></path>
+            <circle id="Oval" fill="#D9F7F7" cx="16" cy="12" r="4"></circle>
+            <circle id="Oval" fill="#D9F7F7" cx="40" cy="12" r="4"></circle>
+        </g>
+    </g>
+</svg>
